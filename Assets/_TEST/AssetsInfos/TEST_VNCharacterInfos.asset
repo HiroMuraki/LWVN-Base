@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f902ebe551cb6ae4b8d26d8f968ce244, type: 3}
+  m_Name: TEST_VNCharacterInfos
+  m_EditorClassIdentifier: 
+  DefaultFontColor: {r: 1, g: 1, b: 1, a: 1}
+  DefaultFontMaterial: {fileID: 2100000, guid: 9fa0b42d1c1417748952f0c794ea8740, type: 2}
+  ComplexCharacterInfos:
+  - RoleName: "\u5411\u665A"
+    RoleNameColor: {r: 0.6039216, g: 0.78431374, b: 0.8862745, a: 1}
+    RoleNameMaterial: {fileID: 2100000, guid: 1cd7343f43f4aa442b8d9d7c83c55ee6, type: 2}
+    Clothing:
+    - ResourceKey: "\u56E2\u670D"
+      Resource: {fileID: 21300000, guid: 039e8944ea4b5e74a99e697286752e1d, type: 3}
+    - ResourceKey: "\u5E38\u670D"
+      Resource: {fileID: 21300000, guid: 88c67873cd7008644828aceef31a2a22, type: 3}
+    - ResourceKey: "\u65E7\u5E38\u670D"
+      Resource: {fileID: 21300000, guid: 60094de8e9f60784ab6dd17b3570a8ab, type: 3}
+    - ResourceKey: "\u665A\u793C\u670D"
+      Resource: {fileID: 21300000, guid: 0c3399df0022a6e4e9223d42dc6c0b77, type: 3}
+    Expressions:
+    - ResourceKey: "\u4F24\u5FC3"
+      Resource: {fileID: 21300000, guid: 5c7e5b146a2688d44a6e3862f601134d, type: 3}
+    - ResourceKey: "\u54ED\u54ED"
+      Resource: {fileID: 21300000, guid: 69c972a67eb87fc4d8e1a26ae4acac23, type: 3}
+    - ResourceKey: "\u5FAE\u7B11"
+      Resource: {fileID: 21300000, guid: 37cf616a2b3111f42965e3c3942217bf, type: 3}
+    - ResourceKey: "\u60CA\u8BB6"
+      Resource: {fileID: 21300000, guid: ac900d4e57c8c4746a11ab53452d0731, type: 3}
+    - ResourceKey: "\u751F\u6C14"
+      Resource: {fileID: 21300000, guid: afcfc76de0cc95649ae1a32faa026b40, type: 3}
+    - ResourceKey: "\u901A\u5E38"
+      Resource: {fileID: 21300000, guid: 8ca7be5ff1486ee44913c99f5425e78b, type: 3}
+    - ResourceKey: "\u95ED\u773C\u7B11"
+      Resource: {fileID: 21300000, guid: 29dfac767abf36f49bf1283ac026140b, type: 3}
+    - ResourceKey: "\u9707\u60CA"
+      Resource: {fileID: 21300000, guid: bb9e28762b3b6be4e9e34c495830eaa0, type: 3}
+    - ResourceKey: "\u601D\u8003"
+      Resource: {fileID: 21300000, guid: f067e4686d0c06a47bbfd7af7a191cf1, type: 3}
+    Decorations:
+    - ResourceKey: "\u8138\u7EA2"
+      Resource: {fileID: 21300000, guid: 18b5244b11a537243b8d2e77934a14a0, type: 3}
+    - ResourceKey: "\u50CF\u7D20\u58A8\u955C"
+      Resource: {fileID: 21300000, guid: 473f8df82e8357842a1ba7865353a120, type: 3}
+  - RoleName: "\u8D1D\u62C9"
+    RoleNameColor: {r: 0.85882354, g: 0.49019608, b: 0.45490196, a: 1}
+    RoleNameMaterial: {fileID: 2100000, guid: 4995644661c6eee4683c4ddb34c4270f, type: 2}
+    Clothing:
+    - ResourceKey: "\u56E2\u670D"
+      Resource: {fileID: 21300000, guid: 67521b9cec24b964eacb80bd076d748c, type: 3}
+    - ResourceKey: "\u5DE5\u88C5"
+      Resource: {fileID: 21300000, guid: 8a513127b91257e4aa4e1d10cfdc131e, type: 3}
+    - ResourceKey: "\u5E38\u670D"
+      Resource: {fileID: 21300000, guid: 2114f3b5b64d474409996c9d46ec8f4b, type: 3}
+    - ResourceKey: "\u65E7\u5E38\u670D"
+      Resource: {fileID: 21300000, guid: 53d7ba1eefc95af488f3a9a3a87879d0, type: 3}
+    - ResourceKey: "\u821E\u8E48\u670D"
+      Resource: {fileID: 21300000, guid: 1ca2622218d7bd9428fd489fbd1c0a32, type: 3}
+    - ResourceKey: "\u8FD0\u52A8\u670D"
+      Resource: {fileID: 21300000, guid: 67ad04980c7bb9748930529d52b37412, type: 3}
+    Expressions:
+    - ResourceKey: "\u4F24\u5FC3"
+      Resource: {fileID: 21300000, guid: 2552325d6a1aff647bbfb774277e4dd7, type: 3}
+    - ResourceKey: "\u54ED\u54ED"
+      Resource: {fileID: 21300000, guid: 91f6a669c56878b48a9e8764bc6261fa, type: 3}
+    - ResourceKey: "\u5FAE\u7B11"
+      Resource: {fileID: 21300000, guid: 134f8020a650abb4081e8ec31bfdd0ae, type: 3}
+    - ResourceKey: "\u60CA\u8BB6"
+      Resource: {fileID: 21300000, guid: 0d349ca365624514c90e17402e7f48ad, type: 3}
+    - ResourceKey: "\u6124\u6012"
+      Resource: {fileID: 21300000, guid: 9a47947b3cca92b48b87095b0e06683d, type: 3}
+    - ResourceKey: "\u751F\u6C14"
+      Resource: {fileID: 21300000, guid: c51bebb0731f63847ab75e6069a29fe4, type: 3}
+    - ResourceKey: "\u901A\u5E38"
+      Resource: {fileID: 21300000, guid: 14e5b2ed93bb1f0479736af5372985ac, type: 3}
+    - ResourceKey: "\u95ED\u773C\u7B11"
+      Resource: {fileID: 21300000, guid: 24137a1b4ffda5842a9a2c4b3b195499, type: 3}
+    - ResourceKey: "\u601D\u8003"
+      Resource: {fileID: 21300000, guid: 081243d2bc8bc0247a640afe62743db0, type: 3}
+    - ResourceKey: "\u4F24\u5FC32"
+      Resource: {fileID: 21300000, guid: b40e34def0e6e094e980d9fe022cad37, type: 3}
+    Decorations:
+    - ResourceKey: "\u8138\u7EA2"
+      Resource: {fileID: 21300000, guid: d81663a6935cadb438a7b9827dba2a0d, type: 3}
+    - ResourceKey: "\u50CF\u7D20\u58A8\u955C"
+      Resource: {fileID: 21300000, guid: ce19ba542858e0b499249e868bdb90f2, type: 3}
+  - RoleName: "\u73C8\u4E50"
+    RoleNameColor: {r: 0.72156864, g: 0.6509804, b: 0.8509804, a: 1}
+    RoleNameMaterial: {fileID: 2100000, guid: 6a2c188a8f5bd024fafb2198befb304e, type: 2}
+    Clothing:
+    - ResourceKey: "\u56E2\u670D"
+      Resource: {fileID: 21300000, guid: 7ae9395353685db40adce195beadd7ac, type: 3}
+    - ResourceKey: "\u5E38\u670D"
+      Resource: {fileID: 21300000, guid: d31766fab11b14148a7f5fd7b1f1922a, type: 3}
+    - ResourceKey: "\u65E7\u5E38\u670D"
+      Resource: {fileID: 21300000, guid: 502a302870d8e5541aa5cc22780139c5, type: 3}
+    - ResourceKey: "\u957F\u53D1\u5E38\u670D"
+      Resource: {fileID: 21300000, guid: c0d6f9924b01ab24b860f2b81cb44e92, type: 3}
+    Expressions:
+    - ResourceKey: "\u4F24\u5FC3"
+      Resource: {fileID: 21300000, guid: ac589c99cf27c5d4ea2ce6fc4d59669d, type: 3}
+    - ResourceKey: "\u54ED\u54ED"
+      Resource: {fileID: 21300000, guid: e0795e57065f5bd4bb19060abdc14abb, type: 3}
+    - ResourceKey: "\u5FAE\u7B11"
+      Resource: {fileID: 21300000, guid: 9dffbde83571403478b2d8cf66f8a8fa, type: 3}
+    - ResourceKey: "\u60CA\u8BB6"
+      Resource: {fileID: 21300000, guid: 7cbee8a9637e2014784fec0b30bb277d, type: 3}
+    - ResourceKey: "\u751F\u6C14"
+      Resource: {fileID: 21300000, guid: 7eeffb9024b78f2428c639e351b0cb8d, type: 3}
+    - ResourceKey: "\u901A\u5E38"
+      Resource: {fileID: 21300000, guid: 888059299144e844ab208d9c8496fc9c, type: 3}
+    - ResourceKey: "\u95ED\u773C\u7B11"
+      Resource: {fileID: 21300000, guid: 27be7711042a4654494d25d032213742, type: 3}
+    - ResourceKey: "\u601D\u8003"
+      Resource: {fileID: 21300000, guid: b19456ce3b30afb479973837aed18678, type: 3}
+    Decorations:
+    - ResourceKey: "\u53E3\u7F69"
+      Resource: {fileID: 21300000, guid: b4077cd847140c74993274447dfe64e7, type: 3}
+    - ResourceKey: "\u58A8\u955C"
+      Resource: {fileID: 21300000, guid: f6e50399aa38d5f43b5c33ca3f44ce75, type: 3}
+    - ResourceKey: "\u58A8\u955C\u53E3\u7F69"
+      Resource: {fileID: 21300000, guid: fba399b156ef6f34d8c6d8d4d80588dc, type: 3}
+    - ResourceKey: "\u8138\u7EA2"
+      Resource: {fileID: 21300000, guid: c3ce643b53f80ac4183627af4495eb12, type: 3}
+    - ResourceKey: "\u50CF\u7D20\u58A8\u955C"
+      Resource: {fileID: 21300000, guid: fd033d44497d31d4da326d31995667b4, type: 3}
+  - RoleName: "\u5609\u7136"
+    RoleNameColor: {r: 0.90588236, g: 0.6, b: 0.6901961, a: 1}
+    RoleNameMaterial: {fileID: 2100000, guid: 4ffc07bf1d0f4024c8c0d681f987ab03, type: 2}
+    Clothing:
+    - ResourceKey: "\u56E2\u670D"
+      Resource: {fileID: 21300000, guid: 8647e03eee5e27944873f6cccb5246d0, type: 3}
+    - ResourceKey: "\u5E38\u670D"
+      Resource: {fileID: 21300000, guid: 0bf2bfc8d98d74d4bb57b7862673b6ab, type: 3}
+    - ResourceKey: "\u65E7\u5E38\u670D"
+      Resource: {fileID: 21300000, guid: afb9e3450244a3c4283e621dd0e356ac, type: 3}
+    - ResourceKey: "\u753B\u5BB6\u670D"
+      Resource: {fileID: 21300000, guid: d3895dfe84391cf4baa1d7247b02f444, type: 3}
+    - ResourceKey: "\u75C5\u670D"
+      Resource: {fileID: 21300000, guid: 521bf298a0148504c841923295b5e13c, type: 3}
+    - ResourceKey: "\u7761\u8863"
+      Resource: {fileID: 21300000, guid: 47a54ababc2142747884a1adf1b4eb6f, type: 3}
+    Expressions:
+    - ResourceKey: "\u4F24\u5FC3"
+      Resource: {fileID: 21300000, guid: 0c4cb91ba0dc1bf4bbb3fe830da3f5af, type: 3}
+    - ResourceKey: "\u4F24\u5FC32"
+      Resource: {fileID: 21300000, guid: 40744d6362c616c48b7f85088e1ed6b1, type: 3}
+    - ResourceKey: "\u4F24\u5FC33"
+      Resource: {fileID: 21300000, guid: cf87d30cc3c42aa4e9f97e6a9583210b, type: 3}
+    - ResourceKey: "\u54ED\u54ED"
+      Resource: {fileID: 21300000, guid: 9c3be9cc83ac2ed45bdf2e730a76a09f, type: 3}
+    - ResourceKey: "\u5FAE\u7B11"
+      Resource: {fileID: 21300000, guid: f9087068081ef8d43970313099de6234, type: 3}
+    - ResourceKey: "\u60CA\u8BB6"
+      Resource: {fileID: 21300000, guid: 57abb3ccfd0108e4d971ea782786774d, type: 3}
+    - ResourceKey: "\u751F\u6C14"
+      Resource: {fileID: 21300000, guid: fd0734f61c089ed4b9a46fb6d18d8a53, type: 3}
+    - ResourceKey: "\u901A\u5E38"
+      Resource: {fileID: 21300000, guid: b8ead1e5d90fd1349b91b2d94bd85bbe, type: 3}
+    - ResourceKey: "\u95ED\u773C\u7B11"
+      Resource: {fileID: 21300000, guid: 30466c7ed99ae5740a7234e9fc6d81ba, type: 3}
+    - ResourceKey: "\u601D\u8003"
+      Resource: {fileID: 21300000, guid: fcc4faad592814c408133c4f04fa6e3e, type: 3}
+    Decorations:
+    - ResourceKey: "\u8138\u7EA2"
+      Resource: {fileID: 21300000, guid: 2ce7d535f7ddff443933b01ea6a0e448, type: 3}
+    - ResourceKey: "\u50CF\u7D20\u58A8\u955C"
+      Resource: {fileID: 21300000, guid: fa66756504cc4cc47983ea9d3f23514e, type: 3}
+  - RoleName: "\u4E43\u7433"
+    RoleNameColor: {r: 0.34117648, g: 0.4, b: 0.5647059, a: 1}
+    RoleNameMaterial: {fileID: 2100000, guid: e6c80762ce2aabc408cbf0c452a28f0e, type: 2}
+    Clothing:
+    - ResourceKey: "\u56E2\u670D"
+      Resource: {fileID: 21300000, guid: 4e134338f3708a945aafa6393d2ab47d, type: 3}
+    - ResourceKey: "\u5DE5\u88C5"
+      Resource: {fileID: 21300000, guid: a1cc64cb99d0380488f2245160a0cef0, type: 3}
+    - ResourceKey: "\u5E38\u670D"
+      Resource: {fileID: 21300000, guid: 7aef74267e0de22499b2463b58484258, type: 3}
+    - ResourceKey: "\u65E7\u5E38\u670D"
+      Resource: {fileID: 21300000, guid: 3407b5200bcfe0b4b839ca3bf71b4d3f, type: 3}
+    Expressions:
+    - ResourceKey: "\u4F24\u5FC3"
+      Resource: {fileID: 21300000, guid: 5cbdcd274828ac142977974c665b439d, type: 3}
+    - ResourceKey: "\u54ED\u54ED"
+      Resource: {fileID: 21300000, guid: 2bcabda8e6d0204419695ab520890eb1, type: 3}
+    - ResourceKey: "\u5FAE\u7B11"
+      Resource: {fileID: 21300000, guid: d330ec6ca2e625e4dbd9e318862cc306, type: 3}
+    - ResourceKey: "\u60CA\u8BB6"
+      Resource: {fileID: 21300000, guid: eb8509f3c3dcfcb499307e34d7cdcbd5, type: 3}
+    - ResourceKey: "\u751F\u6C14"
+      Resource: {fileID: 21300000, guid: c7f5098db7867814ab9caff22c848244, type: 3}
+    - ResourceKey: "\u901A\u5E38"
+      Resource: {fileID: 21300000, guid: 8479f5b4e54672b4d9028814320ce644, type: 3}
+    - ResourceKey: "\u95ED\u773C\u7B11"
+      Resource: {fileID: 21300000, guid: a85be397baf4e254cbe15a7f2fabd989, type: 3}
+    - ResourceKey: "\u601D\u8003"
+      Resource: {fileID: 21300000, guid: a1cb8deedce4e364da97f9c0a0963cfc, type: 3}
+    Decorations:
+    - ResourceKey: "\u773C\u955C"
+      Resource: {fileID: 21300000, guid: e325fcba381d4b548a941070b8419c44, type: 3}
+    - ResourceKey: "\u8138\u7EA2"
+      Resource: {fileID: 21300000, guid: 1e63509310a461849a0c3d7edc00690e, type: 3}
+    - ResourceKey: "\u50CF\u7D20\u58A8\u955C"
+      Resource: {fileID: 21300000, guid: 8f492851826b93842aa4bcb4a97777b5, type: 3}
+    - ResourceKey: "\u8138\u7EA2\u773C\u955C"
+      Resource: {fileID: 21300000, guid: cf6340c5258d1eb44b95367a8acaa738, type: 3}
+  SimpleCharacterInfos:
+  - UsingName: "\u7BA1\u5BB6-\u5F00\u5FC3"
+    Resource: {fileID: 21300000, guid: 58372d8fb604978458b5515142984ce9, type: 3}
+  RoleNameColorInfos:
+  - RoleName: "\u963F\u8349"
+    FontColor: {r: 0.627451, g: 0.9137255, b: 0.47843137, a: 1}
+    FontMaterial: {fileID: 2100000, guid: 03abd45d583d47f44a0256eafb9ac764, type: 2}

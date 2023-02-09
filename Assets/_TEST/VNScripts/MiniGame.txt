@@ -1,0 +1,7 @@
+【进入小游戏：SimpleGame；1=status#1；2=status#2】
+：：选择一个按钮来决定小游戏的完成结果吧
+~：：
+<Suspend>
+：：您完成了小游戏
+
+【跳转：status；1=MiniGame_Result_1；2=MiniGame_Result_2】

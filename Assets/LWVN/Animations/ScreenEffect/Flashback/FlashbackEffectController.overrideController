@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FlashbackEffectController
+  m_Controller: {fileID: 9100000, guid: 216226f93c312744ab7b201ddeeccf21, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: d4068f9ce1bee9248ba8e785050f6639, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b8aa42a54f5bc564aa235c24ce6e4517, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 00af4a449390397468d15409e6bb31c8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b11408c7ae6efb349958ddfc2061a32a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6b4972f92360f3d4ba2874304576f49a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1cde6c4b9030d814a9885dd096863ec8, type: 2}

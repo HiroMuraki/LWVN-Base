@@ -1,0 +1,4 @@
+：：您以状态码1完成了游戏，此消息来自MiniGame_Result_1
+
+<SetVariable, x, 0>
+【跳转：x；0=TestCompleted】

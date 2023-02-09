@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - VNBack
+  - VNCenter
+  - VNFront
+  - MiniGame
+  - MiniGameUI
+  - VNScreenEffectLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: MiniGame
+    uniqueID: 3941172441
+    locked: 0
+  - name: MiniGame2
+    uniqueID: 3275664151
+    locked: 0
+  - name: MiniGame3
+    uniqueID: 3994057365
+    locked: 0
+  - name: MiniGame4
+    uniqueID: 267681009
+    locked: 0

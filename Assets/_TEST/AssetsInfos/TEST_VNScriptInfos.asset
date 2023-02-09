@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e63a66c27a365f409ce98169a6d0aac, type: 3}
+  m_Name: TEST_VNScriptInfos
+  m_EditorClassIdentifier: 
+  InfoGroups:
+  - Title: Test
+    Infos:
+    - ResourceKey: TestVNScript
+      Resource: {fileID: 4900000, guid: db813966eaf72af43a7148cacc4a9096, type: 3}
+      Title: TestVNScript
+    - ResourceKey: MiniGame
+      Resource: {fileID: 4900000, guid: f73a907d144e87b43a288973b6fdb5f4, type: 3}
+      Title: MiniGame
+    - ResourceKey: PlayVideo
+      Resource: {fileID: 4900000, guid: 26e810d2ff083714b80fbae927e7cdec, type: 3}
+      Title: PlayVideo
+    - ResourceKey: TestCompleted
+      Resource: {fileID: 4900000, guid: 16b1ec86dc8f2a0499cb1ddcd401a0e6, type: 3}
+      Title: TestCompleted
+    - ResourceKey: MiniGame_Result_1
+      Resource: {fileID: 4900000, guid: c882de44173e8ba468f4cb008c84ba8b, type: 3}
+      Title: MiniGame_Result_1
+    - ResourceKey: MiniGame_Result_2
+      Resource: {fileID: 4900000, guid: bdf35bc3b99802c4b8b97bca224cf6a2, type: 3}
+      Title: MiniGame_Result_2
